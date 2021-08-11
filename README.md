@@ -2,7 +2,7 @@
 - 👀 I’m interested in history and human psychology
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... advaitanch2019phpcom@student.mes.ac.in
 
 <!---
 Advait73/Advait73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
